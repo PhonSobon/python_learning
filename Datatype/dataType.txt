@@ -1,0 +1,24 @@
+How many data type in python?
+# Data types in python have 7 main categories:
+# 1. Numeric Types
+#    - int (integer)
+#    - float (floating point number)
+#    - complex (complex numbers)
+# 2. Sequence Types
+#    - str (string)
+#    - list (list)
+#    - tuple (tuple)
+# 3. Mapping Type
+#    - dict (dictionary)
+# 4. Set Types
+#    - set (set)
+#    - frozenset (immutable set)
+# 5. Boolean Type
+#    - bool (boolean)
+# 6. Binary Types
+#    - bytes (immutable sequence of bytes)
+#    - bytearray (mutable sequence of bytes)
+#    - memoryview (memory view object)
+# 7. None Type
+#    - NoneType (represents the absence of a value)
+# In total, there are 7 main categories of data types in Python, with several specific types under each category.
