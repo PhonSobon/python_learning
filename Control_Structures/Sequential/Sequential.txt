@@ -1,0 +1,3 @@
+# Sequential statements ជាការកំណត់ statement អំពី execution process ដែលកើតឡើង តាមលំដាប់លំដោយ។
+// វាមានលក្ខណៈពិសេសគឺ statement មួយៗនឹងត្រូវបានអនុវត្តន៍តាមលំដាប់។
+

@@ -1,0 +1,13 @@
+# Selection statements គឺដឹងថាជា Decision control statements ឬ  branching statements.
+// Selection statements បានអនុញ្ញាតឲ្យ program ធ្វើការតេស្ដទៅលើលក្ខខណ្ឌ​មួយ​ចំនួន និង execute instructions ដោយ​ផ្អែក​លើ​លក្ខខណ្ឌ​មួយ​ណា​ដែល​ពិត។
+// វាអនុញ្ញាតឲ្យ program ធ្វើការប្រមូលផ្តុំ និង execute instructions ដោយផ្អែកលើលក្ខខណ្ឌមួយណាមួយដែលត្រូវបានបំពេញ។
+// Selection statements មានប្រភេទដូចខាងក្រោម៖
+// 1. if statement
+// 2. if-else statement
+// 3. if-elif-else statement
+// 4. nested if statement
+// 5. switch statement (not available in Python, but can be simulated using if-elif-else)
+# 6. conditional expressions (ternary operator)
+# 7. match statement (introduced in Python 3.10, similar to switch statement)
+# Selection statements are essential for controlling the flow of a program based on conditions, allowing for more dynamic and responsive code execution.
+# Selection statements are used to control the flow of a program based on certain conditions. They allow the program to make decisions and execute different blocks of code depending on whether a condition is true or false.

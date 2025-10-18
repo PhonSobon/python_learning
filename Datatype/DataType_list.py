@@ -34,3 +34,6 @@ print(mixed_data_list)
 
 mixed_data_list.insert(0, "watermelon")
 print("Mixed data list after inserting watermelon:", mixed_data_list)
+
+mixed_data_list.pop(1)
+print("Mixed data list after popping 'apple':", mixed_data_list)
